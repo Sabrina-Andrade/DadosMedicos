@@ -1,0 +1,18 @@
+textarea {
+    display: block;
+}
+
+.botao {
+  margin-left:50%;
+}
+
+.centro {
+    width: 50%;
+    border: 2px solid black;
+    margin: 0px auto;
+    background-color: lightgray;
+}
+.formLabel {
+    width: 60px;
+    display: inline-block;
+}
